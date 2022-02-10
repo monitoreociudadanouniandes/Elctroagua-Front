@@ -83,7 +83,7 @@
     "devDependencies": {
         "babel-core": "^6.26.0",
         "dotenv": "^5.0.1",
-        "node-sass": "^4.7.2"
+        "node-sass": "^7.0.0"
     },
     "jest": {
         "collectCoverageFrom": [
